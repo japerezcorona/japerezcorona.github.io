@@ -80,7 +80,12 @@
 		
 <br>
 <a href="#galeriagelatinas">Galeria de gelatinas</a>
-<p> Tel: 5539919100 </p>
+
+<h2> Pedidos</h2>
+<p> Tel: 5539919100 <br>
+	email:pasteleriaberd@gmail.com
+	
+	</p>
 
 
 

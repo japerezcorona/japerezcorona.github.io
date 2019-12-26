@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <title>Project:Pasteleria RODEA</title>
         <style>
-            .tipococia {
+            .tipococina {
 		color:red
 		}
         </style>

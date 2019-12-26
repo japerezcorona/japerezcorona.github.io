@@ -17,6 +17,7 @@
             <li><a href="#quiensoy">Quien Soy!</a></li>
             <li><a href="#listadepasteles">Lista de Pasteles</a></li>
             <li><a href="#galeria">Galeria de Pasteles</a></li>
+	     <li><a href="#galeriagelatinas">Galeria de Gelatinas</a></li>
         </ul>
         
         <h2 id="quiensoy">Quien Soy!</h2>
@@ -47,7 +48,7 @@
 			<li>Plastilina </li>
 			<li>otro1 </li>
 			<li>otro</li>
-			<li> </li>
+			<li>Muffins </li>
 			<li>Fondan </li>
 			<li> Merengue</li>
 		</ol>
@@ -66,8 +67,20 @@
 		
 		
 <br>
-<a href="#galeria">Galeria de Pasteles</a>
+<a href="#galeriagelatinas">Galeria de Gelatinas</a>
 
+       <h2 id="galeriagelatinas">Galeria de Gelainas </h2>
+        <h6>Posted on some date in some year</h6>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREcTRkwM-k5pfmeX7vMLsnOHK8tM5syule_97hXFrgQxHtS9la" >
+	<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-3OMHpUqkUKdbKnNjltNynovGGXmc8c8Dnc_bwfYi_qt5V5X1">
+		
+		
+<br>
+<a href="#galeriagelatinas">Galeria de gelatinas</a>
+
+      
+      
       
 <p>
     <a href="#pasteleria">Pasteleria BERD</a> |

@@ -53,7 +53,7 @@
 			<li>Merengue</li>
 		</ol>
 		
-        <p><strong>1. Ir al aeropuerto con anticipación: al menos 3 horas</strong></p>
+        <p><strong>1. Todos los ingredientes son natrales de primera calidad</strong></p>
         
 		
 		<a href="#listadepasteles">Lista de Pasteles</a>

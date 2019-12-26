@@ -91,7 +91,7 @@
 
 
 
-    <li><a href="#Pedidos">Pedidos</a></li>    
+    <a href="#Pedidos">Pedidos</a>    
   
       
 <p>

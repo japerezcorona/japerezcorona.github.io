@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html>
     <head>
@@ -22,7 +22,10 @@
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>
         <p>Something excited happened.</p>
-        <p>Rollo de BERD</p><br>
+        <p>Mexicana enamorada de la cocina local, buscando la resalten los sabores de cada ingridediente pero tambien esten muy bien integrados cuidado la salud del comensal.
+	las recestas son del dominio publico con el toque de la buena cocina.
+	
+	</p><br>
 		<a href="#quiensoy">Quien Soy!</a><br>
 
 		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxNqxdg-Y5zNQDrmdI6oGoD3xVfwTNsViU_vIk3tQqYOkbijnk">
@@ -45,8 +48,8 @@
 			<li>otro1 </li>
 			<li>otro</li>
 			<li> </li>
-			<li> </li>
-			<li> </li>
+			<li>Fondan </li>
+			<li> Merengue</li>
 		</ol>
 		
         <p><strong>1. Ir al aeropuerto con anticipación: al menos 3 horas</strong></p>

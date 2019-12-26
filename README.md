@@ -70,8 +70,8 @@
 <p>
     <a href="#pasteleria">Pasteleria BERD</a> |
     <a href="http://en.wikipedia.org/wiki/">leer mas en Wikipedia</a>
+
     </p>
-	  
-        
+	          
     </body>
 </html>

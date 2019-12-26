@@ -57,9 +57,9 @@
         <h2 id="galeria">Galeria de Pastles </h2>
         <h6>Posted on some date in some year</h6>
 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSj9UDG-bSGXiY3RTpOodRN3gGULaimslpjYQgsU0Qi47umobT1" width = 100>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSj9UDG-bSGXiY3RTpOodRN3gGULaimslpjYQgsU0Qi47umobT1" >
         
-		<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlYqdJocWFgsqjm_KAAVoXun2BW7tKlvsQTV0GTx-U4rYqdRm0" width = 100>
+		<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlYqdJocWFgsqjm_KAAVoXun2BW7tKlvsQTV0GTx-U4rYqdRm0">
 		
 		
          </p>

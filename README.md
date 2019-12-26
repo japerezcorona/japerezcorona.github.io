@@ -5,7 +5,9 @@
         <meta charset="utf-8">
         <title>Project:Pasteleria RODEA</title>
         <style>
-            
+            .tipococia {
+		color:red
+		}
         </style>
     </head>
     <body>
@@ -25,7 +27,7 @@
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>
         <p>Something excited happened.</p>
-        <p>Mexicana enamorada de la cocina local, buscando la resalten los sabores de cada ingridediente pero tambien esten muy bien integrados cuidado la salud del comensal.
+        <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente pero tambien esten muy bien integrados cuidado la salud del comensal.
 	las recestas son del dominio publico con el toque de la buena cocina.
 	
 	</p><br>

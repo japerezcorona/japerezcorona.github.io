@@ -12,10 +12,10 @@
         
         <h1 id ="pasteleria">Pasteleria BERD</h1>
 
-        <h3>Contents</h3>
+        <h3>Contenidos</h3>
         <ul>
             <li><a href="#quiensoy">Quien Soy!</a></li>
-            <li><a href="#listadepasteles">Lista de Pasteles</a></li>
+            <li><a href="#listadeproductos">Lista de Pasteles y Gelatinas</a></li>
             <li><a href="#galeriapasteles">Galeria de Pasteles</a></li>
 	    <li><a href="#galeriagelatinas">Galeria de Gelatinas</a></li>
 	    <li><a href="#Pedidos">Pedidos</a></li>
@@ -37,7 +37,7 @@
         
         
         
-        <h2 id="listadepasteles">Lista de Pasteles</h2>
+        <h2 id="listadeproductos">Lista de Pasteles</h2>
         <h6>Posted on some date in some year</h6>
         <p>Lista de los pasteles.</p>
 
@@ -58,7 +58,7 @@
         <p><strong>1. Todos los ingredientes son natrales de primera calidad</strong></p>
         
 		
-		<a href="#listadepasteles">Lista de Pasteles</a>
+		<a href="#listadeproductos">Lista de Pasteles</a>
         
         
         <h2 id="galeriapasteles">Galeria de Pasteles </h2>

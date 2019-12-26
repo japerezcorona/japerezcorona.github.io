@@ -18,6 +18,8 @@
             <li><a href="#listadepasteles">Lista de Pasteles</a></li>
             <li><a href="#galeriapasteles">Galeria de Pasteles</a></li>
 	    <li><a href="#galeriagelatinas">Galeria de Gelatinas</a></li>
+	    <li><a href="#Pedidos">Pedidos</a></li>
+	    
         </ul>
         
         <h2 id="quiensoy">Quien Soy!</h2>
@@ -78,9 +80,12 @@
 		
 <br>
 <a href="#galeriagelatinas">Galeria de gelatinas</a>
+<p> Tel: 5539919100 </p>
 
-      
-      
+
+
+    <li><a href="#Pedidos">Pedidos</a></li>    
+  
       
 <p>
     <a href="#pasteleria">Pasteleria BERD</a> |

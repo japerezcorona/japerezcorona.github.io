@@ -62,7 +62,6 @@
 		<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlYqdJocWFgsqjm_KAAVoXun2BW7tKlvsQTV0GTx-U4rYqdRm0">
 		
 		
-         </p>
 
 <a href="#galeria">Galeria de Pasteles</a>
 

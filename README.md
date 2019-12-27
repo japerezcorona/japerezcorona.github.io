@@ -8,6 +8,12 @@
             .tipococina {
 		color:red
 		}
+	     .divquiensoy {
+		backgroun:rgb (219, 235, 100)
+		width : 70%
+		height :200 px
+		}
+		
         </style>
     </head>
     <body>
@@ -27,6 +33,8 @@
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>
         <p>Something excited happened.</p>
+	<div class="divquiensoy"
+	
         <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente pero tambien esten muy bien integrados cuidado la salud del comensal.
 	las recestas son del dominio publico con el toque de la buena cocina.
 	
@@ -37,7 +45,7 @@
 	
         
         
-        
+        </div>
         
         <h2 id="listadeproductos">Lista de Pasteles</h2>
         <h6>Posted on some date in some year</h6>

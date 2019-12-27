@@ -32,7 +32,7 @@
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>
         <p>Something excited happened.</p>
-	<div class="divquiensoy"
+	<div class="divquiensoy">
 	
         <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente pero tambien esten muy bien integrados cuidado la salud del comensal.
 	las recestas son del dominio publico con el toque de la buena cocina.

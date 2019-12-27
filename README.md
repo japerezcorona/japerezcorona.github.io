@@ -34,7 +34,7 @@
         <p>Something excited happened.</p>
 	<div class="divquiensoy">
 	
-        <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente pero tambien esten muy bien integrados cuidado la salud del comensal.
+        <p>Mexicana1 enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente pero tambien esten muy bien integrados cuidado la salud del comensal.
 	las recestas son del dominio publico con el toque de la buena cocina.
 	
 	</p><br>

@@ -12,6 +12,8 @@
 		background: rgb(219, 135, 100)
 		width : 70%
 		height:100px
+		overflow-y: auto;
+                overflow-x: auto
 	     }
         </style>
     </head>

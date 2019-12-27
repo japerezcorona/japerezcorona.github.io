@@ -7,13 +7,12 @@
         <style>
             .tipococina {
 		color:red
-		}
+	     }
 	    .divquiensoy {
-		background:rgb (219, 235, 100)
+		background: rgb(219, 235, 100)
 		width : 70%
 		height :200 px
-		}
-		
+	     }
         </style>
     </head>
     <body>

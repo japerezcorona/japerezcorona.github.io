@@ -8,8 +8,8 @@
             .tipococina {
 		color:red
 		}
-	     .divquiensoy {
-		backgroun:rgb (219, 235, 100)
+	    .divquiensoy {
+		background:rgb (219, 235, 100)
 		width : 70%
 		height :200 px
 		}

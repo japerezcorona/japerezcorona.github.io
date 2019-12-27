@@ -10,10 +10,10 @@
 	     }
 	    .divquiensoy {
 		background: rgb(219, 135, 100)
-		width : 70%
-		height:100px
+		width : 50%;
+		height:150px;
 		overflow-y: auto;
-                overflow-x: auto
+                overflow-x: auto;
 	     }
         </style>
     </head>

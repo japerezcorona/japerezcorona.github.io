@@ -10,8 +10,7 @@
 	     }
 	    .divquiensoy {
 		background: rgb(219, 135, 100)
-		width : 70%;
-		height:200px;
+		
 
 	     }
         </style>

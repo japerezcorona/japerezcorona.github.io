@@ -40,7 +40,7 @@
 	las recestas son del dominio publico con el toque de la buena cocina. <br>
 	
 	<div id="barralateral">
-	<h2>anuncioporlaizq</h2>
+	<h2>anuncioporlaizq1</h2>
 	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjkl </p>
 	</div>
 	

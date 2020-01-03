@@ -10,6 +10,8 @@
 	     }
 	    .divquiensoy {
 		background: rgb(219, 135, 100);
+		float: left;
+		width: 70%;
 		
 		}
 	    #barralateral {

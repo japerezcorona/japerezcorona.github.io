@@ -34,15 +34,17 @@
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>
         <p>Something excited happened.</p>
-	<div class="divquiensoy">
-	
-        <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente 		pero tambien esten muy bien integrados cuidado la salud del comensal.
-	las recestas son del dominio publico con el toque de la buena cocina. <br>
 	
 	<div id="barralateral">
 	<h2>anuncioporlaizq1</h2>
 	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjkl </p>
 	</div>
+	<div class="divquiensoy">
+	
+        <p>Mexicana enamorada de la <span class ="tipococina">cocina local</span>, buscando la resalten el sabor de cada ingrediente 		pero tambien esten muy bien integrados cuidado la salud del comensal.
+	las recestas son del dominio publico con el toque de la buena cocina. <br>
+	
+	
 	
 	Wikipedia es una enciclopedia libre,nota 2​ políglota y editada de manera colaborativa. Es administrada por la Fundación 		Wikimedia, una organización sin ánimo de lucro cuya financiación está basada en donaciones. Sus más de 50 millones de artículos 	en 300 idiomas han sido redactados en conjunto por voluntarios de todo el mundo,5​ lo que suma más de 2000 millones de 			ediciones, y permite que cualquier persona pueda sumarse al proyecto6​ para editarlos, a menos que la página se encuentre 		protegida contra vandalismos para evitar problemas o disputas. 
 	

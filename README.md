@@ -16,6 +16,7 @@
 		background: rgb(209, 105, 100);
 		float: right;
 		width: 30%;
+		margin-left:5px;
 	     }
         </style>
     </head>
@@ -39,7 +40,7 @@
 	
 	<div id="barralateral">
 	<h2>anuncioporlaizq</h2>
-	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk1 </p>
+	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk2 </p>
 	</div>
 	<div class="divquiensoy">
 	

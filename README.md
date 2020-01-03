@@ -44,7 +44,7 @@
 	
 	<div id="barralateral">
 	<h2>anuncioporlaizq</h2>
-	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk2 </p>
+	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk </p>
 	</div>
 	<div class="divquiensoy">
 	

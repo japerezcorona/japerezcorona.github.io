@@ -6,14 +6,15 @@
         <title>Project:Pasteleria RODEA</title>
         <style>
             .tipococina {
-		color:red
+		color:red ;
 	     }
 	    .divquiensoy {
-		background: rgb(219, 135, 100)
+		background: rgb(219, 135, 100);
 		}
 	    .barralateral {
 		background: rgb(209, 105, 100);
-		float: left;
+		float: right;
+		widt: 30%;
 	     }
         </style>
     </head>

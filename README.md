@@ -10,11 +10,12 @@
 	     }
 	    .divquiensoy {
 		background: rgb(219, 135, 100);
+		
 		}
 	    #barralateral {
 		background: rgb(209, 105, 100);
 		float: right;
-		widt: 30%;
+		width: 30%;
 	     }
         </style>
     </head>

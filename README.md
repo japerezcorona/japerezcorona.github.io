@@ -12,13 +12,15 @@
 		background: rgb(219, 135, 100);
 		float: left;
 		width: 70%;
+		margin-left:15px
+		
 		
 		}
 	    #barralateral {
 		background: rgb(209, 105, 100);
 		float: right;
 		width: 30%;
-		margin-left:5px;
+		margin-right:15px;
 	     }
         </style>
     </head>

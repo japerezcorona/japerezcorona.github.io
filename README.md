@@ -12,8 +12,8 @@
 		background: rgb(219, 135, 100)
 		}
 	    .barralateral {
-		background: rgb(209, 105, 100)
-		float: left
+		background: rgb(209, 105, 100);
+		float: left;
 	     }
         </style>
     </head>

@@ -8,7 +8,7 @@
             .tipococina {
 		color:red ;
 	     }
-	    .divquiensoy {
+	    #divquiensoy {
 		background: rgb(219, 135, 100);
 		float: left;
 		margin-left:15px;

@@ -37,8 +37,8 @@
         <p>Something excited happened.</p>
 	
 	<div id="barralateral">
-	<h2>anuncioporlaizq1</h2>
-	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk2 </p>
+	<h2>anuncioporlaizq</h2>
+	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk1 </p>
 	</div>
 	<div class="divquiensoy">
 	

@@ -19,7 +19,7 @@
 	    #barralateral {
 		background: rgb(209, 105, 100);
 		float: right;
-		width: 30%;
+		width: 20%;
 		margin-right:15px;
 	     }
         </style>

@@ -15,19 +15,19 @@
 		}
 		
 		a:link{
-		color :blue
+		color :blue;
 		}
 		a:visited {
-		color :red
+		color :red;
 		}
 		a:hover {
-		background-color :rgd (255,214, 255);
+		background-color :rgb (255,214, 255);
 		}
 		a:active {
-		background-color :rgd (215,254, 255);
+		background-color :rgb (215,254, 255);
 		}
 		a:focus {
-		background-color :rgd (255,254, 215);
+		background-color :rgb (255,254, 215);
 		}
 		
 		

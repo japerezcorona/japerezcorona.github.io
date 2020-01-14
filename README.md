@@ -15,12 +15,13 @@
 		
 		
 		}
-	    #barralateral {
+	   /* #barralateral {
 		background: rgb(209, 105, 100);
 		float: right;
 		width: 20%;
 		margin-right:15px;
 	     }
+	     */
         </style>
     </head>
     <body>
@@ -37,10 +38,10 @@
 	    
         </ul>
 	
-	/*<div id="barralateral">
+	<div id="barralateral">
 	<h2>anuncioporlaizq</h2>
 	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk </p>
-	</div>*/
+	</div>
         
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>

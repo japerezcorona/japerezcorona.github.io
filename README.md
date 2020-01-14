@@ -37,10 +37,10 @@
 	    
         </ul>
 	
-	<div id="barralateral">
+	/*<div id="barralateral">
 	<h2>anuncioporlaizq</h2>
 	<p>Aununcio kjlajdkljljkldakljkljjakjdkjdkajdjk </p>
-	</div>
+	</div>*/
         
         <h2 id="quiensoy">Quien Soy!</h2>
         <h6>Posted on some date in some year</h6>

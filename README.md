@@ -14,12 +14,12 @@
 		margin-left:15px;
 		}
 		
-		a:link{
+		/*a:link{
 		color :blue;
 		}
 		a:visited {
 		color :red;
-		}
+		}*/
 		a:hover {
 		background-color :orange;
 		}
